@@ -34,7 +34,11 @@ TRELLO_TOKEN=seu_token_aqui
 python main.py
 ```
 
-## 🌟 Melhoria Implementada e Testes
-- **Melhoria escolhida:** [Explique aqui qual foi a melhoria/funcionalidade extra que você desenvolveu].
-- **Como testar:** [Explique o passo a passo para o avaliador testar essa melhoria no terminal ou no Trello].
+## 🌟 Demonstrações
+
+<img width="675" height="130" alt="1" src="https://github.com/user-attachments/assets/cd1184c4-7504-463d-817b-0e641ba24410" />
+
+<img width="514" height="237" alt="2" src="https://github.com/user-attachments/assets/75882f76-4114-4c39-902a-8ef1c211bbe1" />
+
+
 
