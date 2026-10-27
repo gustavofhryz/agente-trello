@@ -1,0 +1,3 @@
+google-api-python-client
+py-trello
+python-dotenv
